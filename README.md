@@ -21,14 +21,15 @@ Inan Ulusoy (1,*), Philippe Labazuy (2), Erkan Aydar (1)
 (2) Univ. Blaise Pascal, Lab. Magmas et Volcans - UMR-6524 CNRS, 5 rue Kessler,
 	 63038 Clermont Ferrand Cedex, France
 
-* e-mail: inan@hacettepe.edu.tr
-* second e-mail: inanulusoy@yahoo.com
+* e-mail:
+  	inan@hacettepe.edu.tr
+	inanulusoy@yahoo.com
 
 _______________________________________________________________________________________________________
 -------------------------------------------------------------------------------------------------------
 # Repository
 
-	STcorr is an IDL code to perform an image based polynomial regression analysis
+STcorr is an IDL code to perform an image based polynomial regression analysis
 approach for the correction of altitude and aspect effects in nighttime thermal imagery
 It uses Surface Kinetic Temperature (ST) image and Digital Elevation Model (DEM) to
 create a thermal gradient model. After the retrieval of thermal gradient, depending on
