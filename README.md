@@ -21,7 +21,7 @@ Inan Ulusoy (1,*), Philippe Labazuy (2), Erkan Aydar (1)
 (2) Univ. Blaise Pascal, Lab. Magmas et Volcans - UMR-6524 CNRS, 5 rue Kessler,
 	 63038 Clermont Ferrand Cedex, France
 
-* e-mail:
+* e-mails:
   	inan@hacettepe.edu.tr
 	inanulusoy@yahoo.com
 
@@ -40,7 +40,7 @@ illumination correction is performed.
 _______________________________________________________________________________________________________
 
 
-Additional data:
+	Additional data:
 
 No Folder\file					:Explanation
 -- ---------------				-------------------------------------------------------
