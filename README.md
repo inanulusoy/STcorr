@@ -11,7 +11,7 @@ Ulusoy İ, Labazuy P, Aydar E. 2012. STcorr: An IDL code for image based normali
 _______________________________________________________________________________________________________
 -------------------------------------------------------------------------------------------------------
 
-For details refer to the paper submitted to Computers and Geosciences (Elsevier) titled
+For details refer to the published paper in Computers and Geosciences titled:
 
 STcorr: An IDL code for image based normalization of lapse rate and illumination effects on nighttime TIR imagery
 
@@ -32,14 +32,14 @@ ________________________________________________________________________________
 approach for the correction of altitude and aspect effects in nighttime thermal imagery
 It uses Surface Kinetic Temperature (ST) image and Digital Elevation Model (DEM) to
 create a thermal gradient model. After the retrieval of thermal gradient, depending on
-the relationship between corrected image and the aspect image and the slope image an illumination
-correction is performed.
+the relationship between corrected image and the aspect image and the slope image an
+illumination correction is performed.
 
 -------------------------------------------------------------------------------------------------------
 _______________________________________________________________________________________________________
 
 
-Additional data for the submitted paper:
+Additional data:
 
 No Folder\file					:Explanation
 -- ---------------				-------------------------------------------------------
